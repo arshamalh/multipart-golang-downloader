@@ -1,6 +1,7 @@
 ## MultiPart file downloader in Golang
 
-> [!CAUTION] This project is made for educational purposes, it's not the best code, it's not my best work, it's just here to answer some specific questions
+> [!CAUTION]
+> This project is made for educational purposes, it's not the best code, it's not my best work, it's just here to answer some specific questions
 
 Sample File To Download:
 ```
